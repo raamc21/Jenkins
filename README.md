@@ -9,6 +9,7 @@
 
 #### Installating github plugin
 <hr>
+
 * Click on Manage Jenkins from dashboard and select Manage Plugins to view/add all available plugins.
 * Go to available tab and search for GitHub Integration Plugin.
 * Click download now and install after restart option. This will install the plugin and restart jenkins server.
