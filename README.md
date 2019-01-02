@@ -22,7 +22,7 @@
 * Under Git installation section, provide the git (ex C:\Git\bin\git.exe) executable path of your machine.
 * Under Maven installation section, provide the maven home (ex C:\maven\apache-maven-3.6.0\) path of your machine.
 
-#### Creating new job
+#### Creating new job (FreeStyle)
 <hr>
 
 * Click on the New Item to create jenkins job.
@@ -32,5 +32,13 @@
 * Under SCM section, select Git and provide the git repository url.
 * Under Build Trigger section, select GitHub hook trigger for GITScm polling.
 * Under Build section, provide the project pom xml file and mention the maven goal (ex clean package).
+
+#### Creating new pipeline job
+<hr>
+
+* Click on the New Item to create jenkins job.
+* Select pipeline project from the next section.
+* We can either create the jenkinsfile in the SCM project or write inline piplescript.
+<TBD>
 
 
