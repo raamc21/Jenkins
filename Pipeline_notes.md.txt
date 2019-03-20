@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/47285478/deploy-all-artifacts-to-artifactory-with-jenkins-pipeline
+
+https://medium.com/@anusha.sharma3010/ci-cd-using-jenkins-pipeline-as-code-8879e08031e2
+
+https://github.com/jfrog/project-examples/tree/master/jenkins-examples/pipeline-examples
+
+https://www.jfrog.com/confluence/display/RTF/Working+With+Pipeline+Jobs+in+Jenkins
